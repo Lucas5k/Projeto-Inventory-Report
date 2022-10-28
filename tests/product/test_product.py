@@ -2,7 +2,9 @@ from inventory_report.inventory.product import Product
 
 
 def test_cria_produto():
-    new_product = Product(1, 'mouse', 'Razer', '28/08/2022', '30/12/2070', 'xp-000015', 'query')
+    new_product = Product(
+        1, 'mouse', 'Razer', '28/08/2022', '30/12/2070', 'xp-000015', 'query'
+    )
 
     assert new_product.id == 1
     assert new_product.nome_do_produto == 'mouse'
