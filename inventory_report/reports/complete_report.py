@@ -13,7 +13,7 @@ class CompleteReport(SimpleReport):
             products += (
                 f"- {name}: {names.get(name)}\n"
             )
-        print(products)
+
         result = (
             f"{simple_report}\n"
             f"Produtos estocados por empresa:\n"
