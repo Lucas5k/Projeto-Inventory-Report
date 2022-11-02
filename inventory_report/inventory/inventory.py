@@ -7,7 +7,7 @@ import xmltodict
 
 class Inventory:
     def verify_is_manipulate(files: str):
-        if files.endswith('.csv'):
+        if files.endswith(".csv"):
             my_list_in_csv = []
             with open(files, encoding="utf-8") as file:
                 listOfDict = csv.DictReader(file, delimiter=",", quotechar='"')
@@ -15,15 +15,15 @@ class Inventory:
                     my_list_in_csv.append(my_file)
                 return my_list_in_csv
 
-        if files.endswith('.json'):
+        if files.endswith(".json"):
             with open(files) as file:
                 my_list_in_json = json.load(file)
                 return my_list_in_json
 
-        if files.endswith('.xml'):
+        if files.endswith(".xml"):
             with open(files) as file:
                 my_list_in_xml = xmltodict.parse(file.read(), encoding="utf-8")
-                return my_list_in_xml['dataset']['record']
+                return my_list_in_xml["dataset"]["record"]
 
     @staticmethod
     def import_data(files, type):
