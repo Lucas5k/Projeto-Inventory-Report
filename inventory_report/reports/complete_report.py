@@ -10,9 +10,7 @@ class CompleteReport(SimpleReport):
         names = Counter(name)
         products = ""
         for name in names:
-            products += (
-                f"- {name}: {names.get(name)}\n"
-            )
+            products += f"- {name}: {names.get(name)}\n"
 
         result = (
             f"{simple_report}\n"
