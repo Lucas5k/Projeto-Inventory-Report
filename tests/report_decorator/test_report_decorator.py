@@ -2,4 +2,3 @@
 
 
 def test_decorar_relatorio():
-    pass  # Seu teste deve ser escrito aqui
