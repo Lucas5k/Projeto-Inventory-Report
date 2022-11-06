@@ -20,13 +20,14 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 git clone git@github.com:Lucas5k/Projeto-Inventory-Report.git
 
 - Entre no arquivo do projeto
-cd Projeto-Tryunfo
+cd Projeto-Inventory-Report
+
+- Crie o ambiente virtual para o projeto
+python3 -m venv .venv && source .venv/bin/activate
 
 - Instale as dependências
-npm install
+python3 -m pip install -r dev-requirements.txt
 
-- Inicialize o projeto
-npm start
 
 ```
 <!-- ## :soon: Implementação futura
