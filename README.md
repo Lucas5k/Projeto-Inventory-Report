@@ -11,7 +11,9 @@ E por ultimo e não menos importante apliquei padrões de projeto.</p>
 * <b>Funcionalidade 4</b>: Jogar com o baralho criado.
 
 ## :wrench: Tecnologias utilizadas
-* React (componente de classe)
+* Python
+* Pytest
+* Padrões de projetos
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
