@@ -17,7 +17,7 @@ E por ultimo e não menos importante apliquei padrões de projeto.</p>
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 - Clone o repositório
-git clone git@github.com:Lucas5k/Projeto-Tryunfo.git
+git clone git@github.com:Lucas5k/Projeto-Inventory-Report.git
 
 - Entre no arquivo do projeto
 cd Projeto-Tryunfo
