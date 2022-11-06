@@ -1,7 +1,7 @@
 # Projeto-Inventory-Report
 
 ## :memo: Descrição
-<p>Esse foi o meu segundo projeto no módulo da Ciência da Computação. Utilizando a Programação Orientada a Objetos, implementei um gerador de relatórios que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados. Utilizei o Pytest para realização testes.
+<p>Esse foi o meu segundo projeto no módulo de Ciência da Computação. Utilizando a Programação Orientada a Objetos, implementei um gerador de relatórios que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados. Utilizei o Pytest para realização testes.
 E por ultimo e não menos importante apliquei padrões de projeto.</p>
 
 ## :books: Funcionalidades
@@ -29,11 +29,6 @@ npm install
 npm start
 
 ```
-
-## Rodando na Web:
-
-<a href="https://projeto-tryunfo-umber.vercel.app/">Clique aqui</a><p>para ver a versão final do nosso projeto no seu navegador.</p>
-
 <!-- ## :soon: Implementação futura
 * O que será implementado na próxima sprint? -->
 
