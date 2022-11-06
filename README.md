@@ -28,6 +28,7 @@ python3 -m venv .venv && source .venv/bin/activate
 - Instale as dependências
 python3 -m pip install -r dev-requirements.txt
 
+Use a vontade!
 
 ```
 <!-- ## :soon: Implementação futura
