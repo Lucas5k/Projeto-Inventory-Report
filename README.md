@@ -5,10 +5,8 @@
 E por ultimo e não menos importante apliquei padrões de projeto.</p>
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Criar um baralho;
-* <b>Funcionalidade 2</b>: Adicionar e remover uma carta do baralho;
-* <b>Funcionalidade 3</b>: Visualizar todas as cartas que foram adicionadas ao baralho;
-* <b>Funcionalidade 4</b>: Jogar com o baralho criado.
+* <b>Funcionalidade 1</b>: Gera relatórios Simples ou Completo;
+* <b>Funcionalidade 2</b>: Leitura e escrita de arquivos (XML, CSV, JSON);
 
 ## :wrench: Tecnologias utilizadas
 * Python
