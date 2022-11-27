@@ -5,10 +5,10 @@
 E por ultimo e não menos importante apliquei padrões de projeto.</p>
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Gera relatórios Simples ou Completo;
-* <b>Funcionalidade 2</b>: Leitura e escrita de arquivos (XML, CSV, JSON);
+<ol><b>Funcionalidade 1</b>: Gera relatórios Simples ou Completo;</ol>
+<ol><b>Funcionalidade 2</b>: Leitura e escrita de arquivos (XML, CSV, JSON)</ol>
 
-## :wrench: <h3>Tecnologias utilizadas</h3>
+## <h3>:wrench: Tecnologias utilizadas</h3>
 * Python
 * Pytest
 * Padrões de projetos
