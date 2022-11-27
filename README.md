@@ -8,7 +8,7 @@ E por ultimo e não menos importante apliquei padrões de projeto.</p>
 * <b>Funcionalidade 1</b>: Gera relatórios Simples ou Completo;
 * <b>Funcionalidade 2</b>: Leitura e escrita de arquivos (XML, CSV, JSON);
 
-## :wrench: Tecnologias utilizadas
+## :wrench: <h3>Tecnologias utilizadas</h3>
 * Python
 * Pytest
 * Padrões de projetos
